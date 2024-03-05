@@ -23,4 +23,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AriosiLucas}/count.svg" /></p> 
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>

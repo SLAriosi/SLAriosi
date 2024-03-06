@@ -3,7 +3,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Lucas+Ariosi;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Internet+Systems;Be+Welcome!!+:%29)](https://git.io/typing-svg)
-
+## Tools I have experience
+<span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/figma.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/photoshop.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/mamp.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/mySql.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/xampp.png" width="40" height="40" />
+</span>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SLAriosi&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas E github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLAriosi&layout=compact&hide_border=true&title_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" />

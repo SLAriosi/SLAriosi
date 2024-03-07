@@ -17,6 +17,7 @@
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mamp.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mySql.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/xampp.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/node.png" width="40" height="40" />
 </span>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SLAriosi&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Lucas E github stats" /> 

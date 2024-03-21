@@ -12,7 +12,7 @@
 <img src="https://github.com/SLAriosi/svgTools/blob/main/PHP-logo.svg.png" width="40" height="40"  />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/phyton.png" width="40" height="40"  />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/vsCode.png" width="40" height="40" />
-<img src="https://github.com/SLAriosi/svgTools/blob/main/figma.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/Figma.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/photoshop.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mamp.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mySql.png" width="40" height="40" />

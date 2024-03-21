@@ -16,7 +16,7 @@
 <img src="https://github.com/SLAriosi/svgTools/blob/main/photoshop.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mamp.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mySql.png" width="40" height="40" />
-<img src="https://github.com/SLAriosi/svgTools/blob/main/xampp.png" width="40" height="40" />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/Xampp.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/NodeJS.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/SQLite.png" width="40" height="40" />
 </span>

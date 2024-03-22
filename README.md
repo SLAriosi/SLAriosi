@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Lucas+Ariosi;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Internet+Systems;Be+Welcome!!+:%29)](https://git.io/typing-svg)
 ## Tools I have experience
 <span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"  />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/CSS.png" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"  />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/github.png" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"  />

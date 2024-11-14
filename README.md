@@ -10,7 +10,7 @@
 <img src="https://github.com/SLAriosi/svgTools/blob/main/github.png" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"  />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/PHP-logo.svg.png" width="40" height="40"  />
-<img src="https://github.com/SLAriosi/svgTools/blob/main/Phyton.png" width="40" height="40"  />
+<img src="https://github.com/SLAriosi/svgTools/blob/main/Python.png" width="40" height="40"  />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/vsCode.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mamp.png" width="40" height="40" />
 <img src="https://github.com/SLAriosi/svgTools/blob/main/mySql.png" width="40" height="40" />

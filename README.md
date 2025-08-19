@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,80:1a2a6c,100:000000&height=200&section=header&text=Lucas%20Ariosi&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+</p>
+
 ![Snake animation](https://github.com/SLAriosi/snakeSVG/blob/main/snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
+## 🚀 Sobre mim
+- 👼 Nascido em **19/08/2005**.
+- 🎂 Tenho **20 Anos**.
+- 💼 Trabalho na empresa **Govfácil** há **2 anos**.
+- 💻 Desenvolvo com **JavaScript**, **Python**, **React** e **React Native**.
+- 🧑‍🎓 Estudante na **Faculdade ALFA de Umuarama - *UNIALFA***, cursando o **6º e último período de Sistemas para Internet**.
+- 📧 Contato: **ariosilucas@gmail.com**.
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Lucas+Ariosi;I'm+19+years+old;I'm+from+Brazil;I'm+Studying+Internet+Systems;Be+Welcome!!+:%29)](https://git.io/typing-svg)
 ## Tools I have experience
 <span>
 <img src="https://github.com/SLAriosi/svgTools/blob/main/CSS.png" width="40" height="40"  />
@@ -44,4 +54,6 @@
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=SLAriosi.SLAriosi)
 <br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,80:1a2a6c,100:000000&height=200&section=footer"/>
+</p>
